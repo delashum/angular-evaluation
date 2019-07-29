@@ -25,6 +25,8 @@ You will utilize a simple web server with an in-memory database in your applicat
 
 ### Setup
 
+    npm install
+
     npm run start-server
 
 All routes are served at http://localhost:3000/
